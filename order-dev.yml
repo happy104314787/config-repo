@@ -31,5 +31,5 @@ eureka:
 env:
   dev
 girl:
-  name: github10666
-  age: 106668888888
+  name: github
+  age: 1
